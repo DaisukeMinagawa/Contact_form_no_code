@@ -1,0 +1,19 @@
+<?php
+// config.php
+return [
+    'email' => [
+        'host' => 'メールのホスト名',
+        'username' => 'メールのユーザー名',
+        'password' => 'メールのパスワード',
+        'port' => 587,
+        'from' => [
+            'email' => 'あなたのメールアドレス',
+            'name' => 'Mailer'
+        ],
+        'addAddress' => [
+            'email' => 'あなたのメールアドレス',
+            'name' => 'Contact'
+        ]
+    ]
+    // 他の設定もここに追加可能
+];
