@@ -1,5 +1,4 @@
 <?php
-// config.php
 return [
     'email' => [
         'host' => 'メールのホスト名',
@@ -15,5 +14,4 @@ return [
             'name' => 'Contact'
         ]
     ]
-    // 他の設定もここに追加可能
 ];
