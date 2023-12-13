@@ -1,16 +1,16 @@
 <?php
 return [
     'email' => [
-        'host' => 'mail89.onamae.ne.jp',
-        'username' => 'info@webuyasan.com',
-        'password' => 'wah3fpj9JUG4txb*puz',
+        'host' => 'mail host server',
+        'username' => 'Your Emai',
+        'password' => 'Your Email Password',
         'port' => 587,
         'from' => [
-            'email' => 'info@webuyasan.com',
+            'email' => 'Your Emai',
             'name' => 'Mailer'
         ],
         'addAddress' => [
-            'email' => 'info@webuyasan.com',
+            'email' => 'Your Emai',
             'name' => 'Contact'
         ]
     ]
