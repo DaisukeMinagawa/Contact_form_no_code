@@ -9,5 +9,4 @@
 3. Input "cd Contact_form_no_code"
 4. Install ![Composer](https://getcomposer.org/)
 5. Write "composer require phpmailer/phpmailer" in Termianl.
-6. Open index.php by Webbrowser with  environment.
-<<<<< HEAD
+6. Open index.php by Webbrowser with LAMP environment.
